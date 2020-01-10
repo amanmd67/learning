@@ -11,7 +11,7 @@ language: python
 #For Gh-pages
 branches:
   only:
-    - gh-pages
+    - master
 
 #setting environment variables
 
