@@ -8,6 +8,11 @@ sudo: false
 
 language: python
 
+#For Gh-pages
+branches:
+  only:
+    - gh-pages
+
 #setting environment variables
 
 env:
